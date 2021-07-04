@@ -1,0 +1,7 @@
+ANGULAR
+
+ng new bases-angular
+ng serve -0
+
+ng g c Nombre
+ng g m Nombre --flat
